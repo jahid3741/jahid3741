@@ -58,7 +58,7 @@
 
 ```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jahid3741/jahid3741/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/jahid3741/jahid3741/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ## 🚀 Featured Projects
@@ -94,3 +94,4 @@ Gaming website built with React.
 ⭐ Thanks for visiting my profile!<br>
 <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
 </p>
+```
