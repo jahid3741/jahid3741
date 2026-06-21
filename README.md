@@ -1,156 +1,99 @@
-# Hi there 👋, I'm Md Jahidul Islam
+# Hi 👋, I'm Md Jahidul Islam
 
-<div align="center">
-
-### ⚡ Electrical & Electronic Engineering Student | 💻 Full-Stack MERN Developer | 🚀 Tech Enthusiast
-
-<p>
-  <a href="https://jahid-portfolio-peach.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-jahidul-islam-3741-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:islam2305131153@diu.edu.bd">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner">
 </p>
 
-</div>
+<h3 align="center">⚡ Electrical & Electronic Engineering Student | 💻 Full-Stack MERN & Next.js Developer | 🚀 Lifelong Learner</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Open+Source+Learner;Always+Learning" />
+</p>
+
+## 🌐 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://jahid-portfolio-peach.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-jahidul-islam-3741-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jahid3741)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/mdjahidulislam3741/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mdjahidulislam3741/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:islam2305131153@diu.edu.bd)
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final-year **Electrical & Electronic Engineering (EEE)** student at **Daffodil International University**
+- 🎓 Final-year EEE student at Daffodil International University
+- 💻 Full-Stack MERN & Next.js Developer
+- 🌱 Learning TypeScript, AI, Docker, Cloud Computing & System Design
+- 🚀 Passionate about modern web development and real-world solutions
+- 💼 Open to internships and collaborations
 
-💻 Passionate **Full-Stack Developer** specializing in:
+## 🛠 Tech Stack
 
-* React.js
-* Next.js
-* Node.js
-* Express.js
-* MongoDB
-* Firebase
-* Tailwind CSS
-
-🚀 I love building modern, scalable, and responsive web applications that solve real-world problems.
-
-🌱 Currently learning:
-
-* TypeScript
-* Next.js
-* Cloud Technologies
-* Artificial Intelligence
-
-🔬 Interested in:
-
-* Artificial Intelligence
-* Power Systems
-* Renewable Energy
-* Power Electronics
-* Software Engineering
-
-💼 Looking for internship and software engineering opportunities.
-
----
-
-## 🚀 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,vscode,postman,vercel,netlify&perline=10"/>
 </p>
 
-### Backend
+## 📊 GitHub Stats
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahid3741&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid3741&theme=tokyonight&hide_border=true"/>
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid3741&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+## 🏆 GitHub Trophies
 
-## 🌟 Featured Projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jahid3741&theme=tokyonight&no-frame=true"/>
+</p>
 
-### 🍽️ Local Chef Bazar
+## 🐍 Contribution Snake
 
-A full-stack homemade food marketplace built with the MERN Stack.
+> Enable the GitHub Action later, then uncomment:
 
-**Highlights**
+```md
+<!--
+<p align="center">
+<img src="https://raw.githubusercontent.com/jahid3741/jahid3741/output/github-contribution-grid-snake.svg"/>
+</p>
+-->
+```
 
-* JWT Authentication
-* Secure REST API
-* MongoDB Database
-* Responsive Design
-* User Dashboard
+## 🚀 Featured Projects
 
-🔗 Live: https://local-chef-bazar-jahid.netlify.app/
+### 🍽 Local Chef Bazar
 
----
+- MERN Stack Homemade Food Marketplace
+- JWT Authentication
+- Responsive Dashboard
+- MongoDB + Express + React + Node.js
 
 ### 📚 Book Heaven
 
-An online book management platform featuring authentication, CRUD operations, and a clean responsive interface.
-
----
+Book management platform with authentication and CRUD.
 
 ### 🎮 GameHub
 
-A modern gaming website built with React and external APIs.
+Gaming website built with React.
+
+## 🌱 Currently Learning
+
+- TypeScript
+- Next.js
+- Docker
+- AI & Machine Learning
+- Cloud Computing
+- Data Structures & Algorithms
+- System Design
 
 ---
-
-## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahid3741&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid3741&theme=github-dark&hide_border=true"/>
-
+⭐ Thanks for visiting my profile!<br>
+<b>Keep Learning • Keep Building • Keep Growing 🚀</b>
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid3741&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-🌍 Portfolio
-➡️ https://jahid-portfolio-peach.vercel.app/
-
-💼 LinkedIn
-➡️ https://www.linkedin.com/in/md-jahidul-islam-3741-
-
-📧 Email
-➡️ [islam2305131153@diu.edu.bd](mailto:islam2305131153@diu.edu.bd)
-
-🐙 GitHub
-➡️ https://github.com/jahid3741
-
----
-
-## 💬 Dev Quote
-
-> *"Success comes from consistency. Keep learning, keep building, and never stop improving."*
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 😊
-
-⭐ If you like my work, don't forget to star my repositories.
-
-</div>
