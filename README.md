@@ -57,12 +57,9 @@
 > Enable the GitHub Action later, then uncomment:
 
 ```md
-<!--
 <p align="center">
-<img src="https://raw.githubusercontent.com/jahid3741/jahid3741/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/jahid3741/jahid3741/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
--->
-```
 
 ## 🚀 Featured Projects
 
