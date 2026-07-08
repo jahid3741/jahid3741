@@ -1,13 +1,13 @@
 # Hi 👋, I'm Md Jahidul Islam
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner">
+  <img src="./assets/ChatGPT Image Jul 8, 2026, 09_04_34 PM.png" width="100%" alt="Banner">
 </p>
 
 <h3 align="center">⚡ Electrical & Electronic Engineering Student | 💻 Full-Stack MERN & Next.js Developer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Open+Source+Learner;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Open+Source+Learner;Always+Learning" />
 </p>
 
 ## 🌐 Connect
@@ -56,10 +56,11 @@
 
 > Enable the GitHub Action later, then uncomment:
 
-```md
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/jahid3741/jahid3741/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+-->
 
 ## 🚀 Featured Projects
 
@@ -94,4 +95,3 @@ Gaming website built with React.
 ⭐ Thanks for visiting my profile!<br>
 <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
 </p>
-```
