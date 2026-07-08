@@ -17,54 +17,141 @@
 
 ## 👨‍💻 About Me
 
-I am a Full Stack Developer focused on building robust, scalable web applications using the modern JavaScript ecosystem. My engineering approach centers around clean architecture, maintainable codebases, and seamless API integrations. I specialize in the MERN stack and Next.js, continuously optimizing for performance, responsive design, and exceptional user experiences. My primary goal is to build production-ready systems that solve real-world problems efficiently.
+I'm **MD Jahidul Islam**, a **Full Stack Developer** focused on building scalable, secure, and user-centric web applications using modern JavaScript technologies.
+
+My expertise includes **React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, Firebase, and Tailwind CSS**. I enjoy designing clean architectures, building RESTful APIs, and creating responsive user experiences that solve real-world problems.
+
+I'm continuously improving my engineering skills through hands-on projects while exploring modern development practices, performance optimization, and scalable application architecture.
+
+## 🎯 Open to Opportunities
+
+- 💼 Full Stack Developer
+- ⚛️ React / Next.js Developer
+- 💻 Software Engineer
+- 🌍 Open to Remote & International Opportunities
 
 ## 🛠 Tech Stack
 
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" alt="Frontend Technologies" /><br><br>
+### Frontend
 
-**Backend & APIs**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend Technologies" /><br>
-_Additional:_ REST APIs<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark"/>
+</p>
 
-**Database & Authentication**<br>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark" alt="Database and Auth" /><br>
-_Additional:_ JWT, Firebase Authentication<br><br>
+### Backend
 
-**Deployment & Developer Tools**<br>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github&theme=dark" alt="Deployment and Tools" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark"/>
+</p>
+
+**Also Experienced With**
+
+- REST APIs
+- JWT Authentication
+- Firebase Authentication
 
 ## 🚀 Featured Projects
 
-### 🍽 Local Chef Bazar
+### 🍽️ Local Chef Bazar
 
-**High-performance homemade food marketplace connecting chefs with customers.**
+A full-stack marketplace connecting home chefs with customers through a secure, role-based platform.
 
-- **Links:** [Live Demo](https://local-chef-bazar-jahid.netlify.app) | [Client Repository](https://github.com/jahid3741/local-chef-bazar-client) | [Server Repository](https://github.com/jahid3741/local-chef-bazar-server)
-- **Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT
-- **Engineering Highlights:** Implemented secure, stateless authentication using JSON Web Tokens (JWT) and HTTP-only cookies. Architected a normalized database schema to efficiently handle complex user-to-order relationships. Engineered a fully responsive seller dashboard leveraging robust state management for real-time UI updates.
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Firebase • JWT • Tailwind CSS
+
+🔗 **Live Demo:** https://local-chef-bazar-jahid.netlify.app  
+📂 **Client:** https://github.com/jahid3741/local-chef-bazar-client  
+🖥️ **Server:** https://github.com/jahid3741/local-chef-bazar-server
+
+**Highlights**
+
+- Multi-role authentication (User, Chef, Admin)
+- Secure JWT authentication with protected routes
+- Responsive dashboard with role-based access control
+- RESTful backend with MongoDB integration
+
+---
 
 ### 📚 Book Heaven
 
-**Comprehensive digital library and book management platform.**
+A modern book management platform featuring authentication, CRUD operations, and efficient data management.
 
-- **Links:** [Live Demo](https://the-book-heaven-jahid.netlify.app) | [Client Repository](https://github.com/jahid3741/the-book-heaven-client) | [Server Repository](https://github.com/jahid3741/the-book-heaven-server)
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
-- **Engineering Highlights:** Developed a scalable backend with full CRUD capabilities and robust server-side data validation. Designed RESTful API endpoints for seamless frontend-backend communication. Optimized client-side performance and state synchronization across authenticated user sessions.
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Firebase • Tailwind CSS
+
+🔗 **Live Demo:** https://the-book-heaven-jahid.netlify.app  
+📂 **Client:** https://github.com/jahid3741/the-book-heaven-client  
+🖥️ **Server:** https://github.com/jahid3741/the-book-heaven-server
+
+**Highlights**
+
+- Complete CRUD functionality with secure authentication
+- RESTful API architecture using Express.js
+- Server-side validation and database optimization
+- Responsive UI with seamless user experience
+
+---
 
 ### 🛒 eMiniBazar
 
-**Modern e-commerce platform with intuitive product discovery.**
+A Next.js e-commerce application focused on performance, responsive design, and modern shopping experiences.
 
-- **Links:** [Live Demo](https://eminibazar.vercel.app) | [Repository](https://github.com/jahid3741/eminibazar)
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Engineering Highlights:** Built a highly responsive frontend architecture using modern CSS grid/flexbox practices. Implemented efficient data fetching strategies and centralized state management to handle complex shopping cart interactions and ensure a seamless user checkout flow.
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • MongoDB
+
+🔗 **Live Demo:** https://eminibazar.vercel.app  
+📂 **Repository:** https://github.com/jahid3741/eminibazar
+
+**Highlights**
+
+- Built with Next.js App Router
+- TypeScript for scalable development
+- Responsive UI optimized for all devices
+- Modern e-commerce architecture with server-side rendering
+
+---
 
 ### 🎮 GameHub
 
-**Dynamic gaming discovery application with rich media rendering.**
+A gaming discovery platform that integrates external APIs to provide a fast and interactive browsing experience.
 
-- **Links:** [Live Demo](https://gamhub-jahid.netlify.app) | [Repository](https://github.com/jahid3741/gamehub)
-- **Tech Stack:** React.js, Tailwind CSS, REST APIs
-- **Engineering Highlights:** Integrated third-party gaming APIs utilizing optimized data fetching and debounced search techniques to minimize network requests. Utilized Tailwind CSS to build a component-driven UI that scales flawlessly across desktop and mobile devices.
+**Tech Stack:** React.js • Tailwind CSS • REST APIs
+
+🔗 **Live Demo:** https://gamhub-jahid.netlify.app  
+📂 **Repository:** https://github.com/jahid3741/gamehub
+
+**Highlights**
+
+- Third-party API integration
+- Optimized search and filtering
+- Responsive component-based interface
+- Fast client-side rendering and smooth user experience
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid3741&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+## 💼 What I Bring
+
+- 🚀 Scalable Full Stack Development
+- 🔐 Authentication & Authorization
+- ⚡ REST API Development
+- 📱 Responsive & Accessible UI
+- 🧩 Clean Architecture
+- 📊 Performance Optimization
+- 🤝 Strong Communication & Collaboration
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+🌐 <a href="https://jahid-portfolio-peach.vercel.app">Portfolio</a> • 💼 <a href="https://www.linkedin.com/in/md-jahidul-islam-3741-">LinkedIn</a> • 📧 <a href="mailto:mdjahid39142@gmail.com">Email</a>
+
+</p>
