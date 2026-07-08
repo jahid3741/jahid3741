@@ -2,7 +2,9 @@
   <img src="./assets/ChatGPT Image Jul 8, 2026, 09_04_34 PM.png" width="100%" alt="Md Jahidul Islam - Full Stack Developer">
 </p>
 
-<h3 align="center">Full Stack Developer | React, Next.js & Node.js</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Clean+Code+Advocate;Problem+Solver" alt="Typing Animation" />
+</p>
 
 ## 🌐 Connect
 
@@ -71,7 +73,11 @@ _Additional:_ JWT, Firebase Authentication<br><br>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahid3741&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid3741&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=jahid3741&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid3741&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
